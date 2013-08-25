@@ -11,6 +11,7 @@ The main components are
 
 
 NOTES:
+
 1: 
 You will need a subscription to Wolterskluwer SalesTaxSaaS before you can run this app.  
 
