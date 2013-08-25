@@ -6,8 +6,8 @@ Cross platform mobile app for sales tax rates lookup.
 The app has been developed using appery platform and I have uploaded Appery Backup as well as  Android Eclipse project.
 The main components are 
 
-1. STSServiceCalls.js : Helps make REST service calls from client to Wolterskluwer SalesTaxSaaS(STS)webservices hosted at demo.myspeedtax.com
-2. STSMainPageHelper.js : Interacts with the UI and calls into STSServiceCalls.js for  calls to STS.
+1. STSServiceCalls.js : Helps make REST service calls (using jquery) from client to Wolterskluwer SalesTaxSaaS(STS)webservices hosted at demo.myspeedtax.com
+2. STSMainPageHelper.js : Interacts with the UI and uses into STSServiceCalls.js for  calls to STS.
 3. LoginPage :  THe user logs into the application providing STS AccountID, Password and Environment ( DEMO , PROD)
 4. MainPage : User can find sales tax using city, state or Zip code.
 5. STSConfig : Manage the entity under STS Account to use. Also the user can toggle between DEMO and PROD environment
