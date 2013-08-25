@@ -16,7 +16,8 @@ NOTES:
 You will need a subscription to Wolterskluwer SalesTaxSaaS before you can run this app.  
 
 You can use the link below to ask for a Demo account
-Please visit http://tax.cchgroup.com/cforms/taa-contactform.aspx?leadsource=SalesTaxSaaS-SDK&cm_mmc=CCH+Partner+Update+July+12-_-EM-NP-_-graphic-Download+Free+SaaS+Developers+Kit+CFA-_-CCH+Partner+Update%26cm_lm=jessica.balfour@wolterskluwer.com 
+
+http://tax.cchgroup.com/cforms/taa-contactform.aspx?leadsource=SalesTaxSaaS-SDK&cm_mmc=CCH+Partner+Update+July+12-_-EM-NP-_-graphic-Download+Free+SaaS+Developers+Kit+CFA-_-CCH+Partner+Update%26cm_lm=jessica.balfour@wolterskluwer.com 
 
 
 2: 
