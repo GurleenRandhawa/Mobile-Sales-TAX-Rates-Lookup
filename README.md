@@ -1,11 +1,9 @@
 MobileSalesTAXRatesLookup
 =========================
 
-Cross platform mobile app for sales tax rates lookup.
+Cross platform mobile app for sales tax rates lookup. The app has been developed using appery platform.
 
-The app has been developed using appery platform.
-
-The main components  for appery project are as follows
+The main components  for appery project (MobileSalesTAXRatesApperyBackup.zip) are as follows
 
 1. STSServiceCalls.js : Helps make REST service calls (using jquery) from client to Wolterskluwer SalesTaxSaaS(STS)webservices hosted at demo.myspeedtax.com
 2. STSMainPageHelper.js : Interacts with the UI and uses into STSServiceCalls.js for  calls to STS.
